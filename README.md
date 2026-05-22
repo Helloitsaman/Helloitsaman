@@ -1,4 +1,4 @@
-# apun aman bacchi hai
+# Aman Dsouza
 
 Electronics & Robotics Enthusiast  
 Learning Embedded Systems, FPGA (not really), Logisim, coding
