@@ -1,32 +1,8 @@
 # Aman Dsouza
 
-🚀 Electronics & Robotics Enthusiast  
-💻 Learning Embedded Systems, ESP32, FPGA & Logisim  
-🤖 Building robots and hardware projects  
-
-## Tech Stack
-- C/C++
-- ESP32
-- Arduino
-- MATLAB
-- Logisim
-- React
-
-## Current Projects
-- Self Balancing Robot
-- Bluetooth Controlled Bot
-- CPU Design in Logisim
-
-## Connect With Me
-- LinkedIn
-- Portfolio
-Electronics & Robotics Enthusiast<br>
-- Learning Embedded Systems
-- FPGA (not really)
-- Logisim
-- coding
-- Building robots and hardware projects (also software projects sometimes)
-
+- Electronics & Robotics Enthusiast  
+- Learning Embedded Systems, Microprocessors, FPGA(not really), Logisim and lil bit of coding
+- Building robots and hardware projects  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amanishuman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman.dsouza.haha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-dsouza-612366362) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/koiaman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandsouza41@gmail.com) 
