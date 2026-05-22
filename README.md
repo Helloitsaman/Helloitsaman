@@ -1,7 +1,31 @@
 # Aman Dsouza
 
-# Some info about me:
--Electronics & Robotics Enthusiast<br>Learning Embedded Systems, FPGA (not really), Logisim, coding Building robots and hardware projects (also software projects sometimes)<br><br>Stack I have Worked With Majorly<br>C/C++<br>Microcontrollers<br>Microprocessors<br>RISCV Architecture noobda<br>Logisim<br>tp<br>Projects<br>too many
+🚀 Electronics & Robotics Enthusiast  
+💻 Learning Embedded Systems, ESP32, FPGA & Logisim  
+🤖 Building robots and hardware projects  
+
+## Tech Stack
+- C/C++
+- ESP32
+- Arduino
+- MATLAB
+- Logisim
+- React
+
+## Current Projects
+- Self Balancing Robot
+- Bluetooth Controlled Bot
+- CPU Design in Logisim
+
+## Connect With Me
+- LinkedIn
+- Portfolio
+Electronics & Robotics Enthusiast<br>
+- Learning Embedded Systems
+- FPGA (not really)
+- Logisim
+- coding
+- Building robots and hardware projects (also software projects sometimes)
 
 
 ## 🌐 Socials:
