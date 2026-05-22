@@ -1,6 +1,6 @@
 # Aman Dsouza
 
-# 💫 About Me:
+# Some info about me:
 Electronics & Robotics Enthusiast<br>Learning Embedded Systems, FPGA (not really), Logisim, coding Building robots and hardware projects (also software projects sometimes)<br><br>Stack I have Worked With Majorly<br>C/C++<br>Microcontrollers<br>Microprocessors<br>RISCV Architecture noobda<br>Logisim<br>tp<br>Projects<br>too many<br>if interested in any project then dm<br>amandsouza41@gmail.com<br>www.linkedin.com/in/aman-dsouza-612366362<br>www.reddit.com/user/koiaman
 
 
