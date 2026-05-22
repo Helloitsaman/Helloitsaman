@@ -1,16 +1,21 @@
-## Hi there 👋
+# apun aman bacchi hai
 
-<!--
-**Helloitsaman/Helloitsaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Robotics Enthusiast  
+Learning Embedded Systems, FPGA (not really), Logisim, coding
+Building robots and hardware projects (also software projects sometimes)  
 
-Here are some ideas to get you started:
+## Stack I have Worked With Majorly
+- C/C++
+- Microcontrollers
+- Microprocessors
+- RISCV Architecture noobda
+- Logisim
+- tp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- too many
+
+## if interested in any project then dm
+- amandsouza41@gmail.com
+- www.linkedin.com/in/aman-dsouza-612366362
+- www.reddit.com/user/koiaman
